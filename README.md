@@ -1,20 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?
-        font=Fira+Code
-        &weight=700
-        &size=26
-        &duration=3000
-        &pause=1000
-        &color=6C63FF
-        &center=true
-        &vCenter=true
-        &width=850
-        &lines=Hi+👋+I'm+Asifa;
-        BSc+AI+%26+ML+Student;
-        Where+Creativity+Meets+Artificial+Intelligence+✨" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Asifa</h1>
+<h3 align="center">BSc AI & ML Student | Aspiring AI Engineer</h3>
 ---
 
 ### 👩‍💻 About Me
