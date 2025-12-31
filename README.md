@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?
+        font=Fira+Code
+        &weight=700
+        &size=26
+        &duration=3000
+        &pause=1000
+        &color=6C63FF
+        &center=true
+        &vCenter=true
+        &width=850
+        &lines=Hi+👋+I'm+Asifa;
+        BSc+AI+%26+ML+Student;
+        Where+Creativity+Meets+Artificial+Intelligence+✨" />
+  </a>
+</p>
+---
 
-<!--
-**AsifaB-06/AsifaB-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+- 🎓 Pursuing **BSc in Artificial Intelligence & Machine Learning**
+- 🎨 Strong interest in **Graphic Designing & UI/UX**
+- 💻 Passionate about **Frontend Development and interactive web interfaces**
+- 🤖 Passionate about **AI, Machine Learning, and Data Analytics**
+- 💡 Interested in building **Intelligent and data-driven applications**
+  
+---
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML
+- CSS
+- Python
+- Java (Basics)
+- C++ (Basics)
+- Basics of Generative AI 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🔗 Connect with Me
+[LinkedIn](https://linkedin.com/in/asifab)  
+[GitHub](https://github.com/AsifaB-06)
