@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asifa</h1>
-<h3 align="center">BSc AI & ML Student | Aspiring AI Engineer</h3>
+<h3 align="center">AI & ML Student</h3>
 ---
 
 ### 👩‍💻 About Me
