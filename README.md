@@ -4,7 +4,6 @@
 
 ### 👩‍💻 About Me
 - 🎓 Pursuing **BSc in Artificial Intelligence & Machine Learning**
-- 🎨 Interest in **Graphic Designing**
 - 💻 Passionate about **Frontend Development and interactive web interfaces**
 - 🤖 Passionate about **AI, Machine Learning, and Data Analytics**
 - 💡 Interested in building **Intelligent and data-driven applications**
